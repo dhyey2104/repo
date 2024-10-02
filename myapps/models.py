@@ -12,8 +12,6 @@ class Bookss(models.Model):
     # def save(self, *args, **kwargs):
     #     logging.info(f'Saving Book: {self.title}, Author: {self.author}')
     #     super().save(*args, **kwargs)
-
-
         
 
     # def delete(self, *args, **kwargs):

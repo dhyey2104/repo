@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'myapps',
-    'my_override_app'
+    'my_override_app',
+    'lol'
     # 'myapps.apps.MyappsConfig'
 ]
 

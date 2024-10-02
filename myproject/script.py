@@ -4,7 +4,7 @@ import re
 
 
 # Path to your Django project where models are located
-project_path = os.path.expanduser('/home/dhyeyupadhyay/code extras')
+project_path = os.path.expanduser('D:\vizzv\repo')
 
 # BaseModel import line
 base_model_import = 'from myapp.base_model import BaseModel'
